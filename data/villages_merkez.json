@@ -1,1 +1,479 @@
-
+[
+  {
+    "village_id": 1,
+    "district_id": 1,
+    "name": "ALACIK",
+    "muhtar_name": "Kemal EROĞLU",
+    "population_tuik_2024": 51,
+    "summer_population": 51,
+    "winter_population": 9
+  },
+  {
+    "village_id": 2,
+    "district_id": 1,
+    "name": "ALTINYÜZÜK",
+    "muhtar_name": "Erdal GÜL",
+    "population_tuik_2024": 49,
+    "summer_population": 103,
+    "winter_population": 28
+  },
+  {
+    "village_id": 3,
+    "district_id": 1,
+    "name": "ANBAR",
+    "muhtar_name": "Ali ÇAKAK",
+    "population_tuik_2024": 42,
+    "summer_population": 110,
+    "winter_population": 34
+  },
+  {
+    "village_id": 4,
+    "district_id": 1,
+    "name": "ATADOĞDU",
+    "muhtar_name": "Ali Haydar YILIDIRIM",
+    "population_tuik_2024": 68,
+    "summer_population": 260,
+    "winter_population": 65
+  },
+  {
+    "village_id": 5,
+    "district_id": 1,
+    "name": "ATLANTI",
+    "muhtar_name": "Cemal İNANÇ",
+    "population_tuik_2024": 62,
+    "summer_population": 446,
+    "winter_population": 111
+  },
+  {
+    "village_id": 6,
+    "district_id": 1,
+    "name": "BABAOCAĞI",
+    "muhtar_name": "Veli YOSLUN",
+    "population_tuik_2024": 30,
+    "summer_population": 85,
+    "winter_population": 12
+  },
+  {
+    "village_id": 7,
+    "district_id": 1,
+    "name": "BALDAN",
+    "muhtar_name": "Zülüfü MENGEŞ",
+    "population_tuik_2024": 62,
+    "summer_population": 80,
+    "winter_population": 35
+  },
+  {
+    "village_id": 8,
+    "district_id": 1,
+    "name": "BAŞAKÇI",
+    "muhtar_name": "Erdem GÜNGÖREN",
+    "population_tuik_2024": 60,
+    "summer_population": 91,
+    "winter_population": 35
+  },
+  {
+    "village_id": 9,
+    "district_id": 1,
+    "name": "BATMAN",
+    "muhtar_name": "Aydın ÇİÇEK",
+    "population_tuik_2024": 150,
+    "summer_population": 243,
+    "winter_population": 134
+  },
+  {
+    "village_id": 10,
+    "district_id": 1,
+    "name": "BAYLIK",
+    "muhtar_name": "Hüseyin TURĞAN",
+    "population_tuik_2024": 85,
+    "summer_population": 130,
+    "winter_population": 63
+  },
+  {
+    "village_id": 11,
+    "district_id": 1,
+    "name": "BÖĞÜRTLEN",
+    "muhtar_name": "Cebrail ÖKDEMİR",
+    "population_tuik_2024": 135,
+    "summer_population": 220,
+    "winter_population": 85
+  },
+  {
+    "village_id": 12,
+    "district_id": 1,
+    "name": "BUĞULU",
+    "muhtar_name": "Hüseyin ŞENLİK",
+    "population_tuik_2024": 147,
+    "summer_population": 340,
+    "winter_population": 134
+  },
+  {
+    "village_id": 13,
+    "district_id": 1,
+    "name": "BURMAGEÇİT",
+    "muhtar_name": "Umut HARE",
+    "population_tuik_2024": 517,
+    "summer_population": 0,
+    "winter_population": 0
+  },
+  {
+    "village_id": 14,
+    "district_id": 1,
+    "name": "ÇILGA",
+    "muhtar_name": "Hüseyin YASAVUR",
+    "population_tuik_2024": 106,
+    "summer_population": 185,
+    "winter_population": 60
+  },
+  {
+    "village_id": 15,
+    "district_id": 1,
+    "name": "ÇALKIRAN",
+    "muhtar_name": "Ali ARSLAN",
+    "population_tuik_2024": 48,
+    "summer_population": 30,
+    "winter_population": 6
+  },
+  {
+    "village_id": 16,
+    "district_id": 1,
+    "name": "ÇEMÇELİ",
+    "muhtar_name": "Hıdır TOSUN",
+    "population_tuik_2024": 48,
+    "summer_population": 140,
+    "winter_population": 50
+  },
+  {
+    "village_id": 17,
+    "district_id": 1,
+    "name": "ÇIRALI",
+    "muhtar_name": "Şahhaydar GÜL",
+    "population_tuik_2024": 118,
+    "summer_population": 312,
+    "winter_population": 18
+  },
+  {
+    "village_id": 18,
+    "district_id": 1,
+    "name": "ÇİMENLİ",
+    "muhtar_name": "Vural ZERE",
+    "population_tuik_2024": 141,
+    "summer_population": 228,
+    "winter_population": 144
+  },
+  {
+    "village_id": 19,
+    "district_id": 1,
+    "name": "ÇUKUR",
+    "muhtar_name": "Hakkı GÜL",
+    "population_tuik_2024": 90,
+    "summer_population": 181,
+    "winter_population": 82
+  },
+  {
+    "village_id": 20,
+    "district_id": 1,
+    "name": "DEDEAĞAÇ",
+    "muhtar_name": "İnan GÜNTUNCER",
+    "population_tuik_2024": 29,
+    "summer_population": 80,
+    "winter_population": 10
+  },
+  {
+    "village_id": 21,
+    "district_id": 1,
+    "name": "DEMİRKAPI",
+    "muhtar_name": "Erdoğan AŞIK",
+    "population_tuik_2024": 63,
+    "summer_population": 114,
+    "winter_population": 38
+  },
+  {
+    "village_id": 22,
+    "district_id": 1,
+    "name": "DİKENLİ",
+    "muhtar_name": "Mehmet KARACA",
+    "population_tuik_2024": 25,
+    "summer_population": 60,
+    "winter_population": 0
+  },
+  {
+    "village_id": 23,
+    "district_id": 1,
+    "name": "DİLEK",
+    "muhtar_name": "Kazım GÖKMEN",
+    "population_tuik_2024": 25,
+    "summer_population": 0,
+    "winter_population": 0
+  },
+  {
+    "village_id": 24,
+    "district_id": 1,
+    "name": "DOLUDİZGİN",
+    "muhtar_name": "Şenay TÜKEL",
+    "population_tuik_2024": 34,
+    "summer_population": 150,
+    "winter_population": 5
+  },
+  {
+    "village_id": 25,
+    "district_id": 1,
+    "name": "DOLUKÜP",
+    "muhtar_name": "Serdar Şener SUROĞLU",
+    "population_tuik_2024": 42,
+    "summer_population": 47,
+    "winter_population": 34
+  },
+  {
+    "village_id": 26,
+    "district_id": 1,
+    "name": "DÜZPELİT",
+    "muhtar_name": "Ali ÇELİK",
+    "population_tuik_2024": 71,
+    "summer_population": 45,
+    "winter_population": 9
+  },
+  {
+    "village_id": 27,
+    "district_id": 1,
+    "name": "EĞRİYAMAÇ",
+    "muhtar_name": "Hüseyin ZEYTİN",
+    "population_tuik_2024": 30,
+    "summer_population": 45,
+    "winter_population": 0
+  },
+  {
+    "village_id": 28,
+    "district_id": 1,
+    "name": "ERDOĞDU",
+    "muhtar_name": "Ali BULUT",
+    "population_tuik_2024": 27,
+    "summer_population": 58,
+    "winter_population": 11
+  },
+  {
+    "village_id": 29,
+    "district_id": 1,
+    "name": "GEYİKSUYU",
+    "muhtar_name": "Zeynel YEŞİL",
+    "population_tuik_2024": 296,
+    "summer_population": 543,
+    "winter_population": 267
+  },
+  {
+    "village_id": 30,
+    "district_id": 1,
+    "name": "GÖKÇEK",
+    "muhtar_name": "Aydın YOLAŞAN",
+    "population_tuik_2024": 51,
+    "summer_population": 103,
+    "winter_population": 74
+  },
+  {
+    "village_id": 31,
+    "district_id": 1,
+    "name": "GÖMEMİŞ",
+    "muhtar_name": "Hasan GÜNGÖRMÜŞ",
+    "population_tuik_2024": 74,
+    "summer_population": 164,
+    "winter_population": 85
+  },
+  {
+    "village_id": 32,
+    "district_id": 1,
+    "name": "GÖZEN",
+    "muhtar_name": "Hüseyin POLAT",
+    "population_tuik_2024": 22,
+    "summer_population": 0,
+    "winter_population": 0
+  },
+  {
+    "village_id": 33,
+    "district_id": 1,
+    "name": "GÜLEÇ",
+    "muhtar_name": "Yusuf Ali ARSLAN",
+    "population_tuik_2024": 151,
+    "summer_population": 283,
+    "winter_population": 151
+  },
+  {
+    "village_id": 34,
+    "district_id": 1,
+    "name": "GÜRBÜZLER",
+    "muhtar_name": "Sadık AŞKIN",
+    "population_tuik_2024": 63,
+    "summer_population": 316,
+    "winter_population": 29
+  },
+  {
+    "village_id": 35,
+    "district_id": 1,
+    "name": "HACERİ",
+    "muhtar_name": "Çınar ARAS",
+    "population_tuik_2024": 67,
+    "summer_population": 129,
+    "winter_population": 11
+  },
+  {
+    "village_id": 36,
+    "district_id": 1,
+    "name": "KANOĞLU",
+    "muhtar_name": "İmam POLAT",
+    "population_tuik_2024": 62,
+    "summer_population": 100,
+    "winter_population": 100
+  },
+  {
+    "village_id": 37,
+    "district_id": 1,
+    "name": "KARŞILAR",
+    "muhtar_name": "Yadigar AĞLAR",
+    "population_tuik_2024": 67,
+    "summer_population": 320,
+    "winter_population": 40
+  },
+  {
+    "village_id": 38,
+    "district_id": 1,
+    "name": "KOCAKOÇ",
+    "muhtar_name": "Erdal KILIÇ",
+    "population_tuik_2024": 202,
+    "summer_population": 343,
+    "winter_population": 127
+  },
+  {
+    "village_id": 39,
+    "district_id": 1,
+    "name": "KOCALAR",
+    "muhtar_name": "Uğur TAŞKIN",
+    "population_tuik_2024": 28,
+    "summer_population": 0,
+    "winter_population": 0
+  },
+  {
+    "village_id": 40,
+    "district_id": 1,
+    "name": "KOPUZLAR",
+    "muhtar_name": "Ekrem TUTUMAN",
+    "population_tuik_2024": 193,
+    "summer_population": 390,
+    "winter_population": 175
+  },
+  {
+    "village_id": 41,
+    "district_id": 1,
+    "name": "KÖKLÜCE",
+    "muhtar_name": "Rıza DUMAN",
+    "population_tuik_2024": 47,
+    "summer_population": 152,
+    "winter_population": 30
+  },
+  {
+    "village_id": 42,
+    "district_id": 1,
+    "name": "KUYLUCA",
+    "muhtar_name": "Hıdır ARAS",
+    "population_tuik_2024": 36,
+    "summer_population": 137,
+    "winter_population": 29
+  },
+  {
+    "village_id": 43,
+    "district_id": 1,
+    "name": "MEŞEYOLU",
+    "muhtar_name": "Dursun OKTAY",
+    "population_tuik_2024": 88,
+    "summer_population": 257,
+    "winter_population": 16
+  },
+  {
+    "village_id": 44,
+    "district_id": 1,
+    "name": "OKURLAR",
+    "muhtar_name": "Ekin KARATAŞ",
+    "population_tuik_2024": 53,
+    "summer_population": 50,
+    "winter_population": 15
+  },
+  {
+    "village_id": 45,
+    "district_id": 1,
+    "name": "PINAR",
+    "muhtar_name": "Kamer DEMİR",
+    "population_tuik_2024": 16,
+    "summer_population": 30,
+    "winter_population": 0
+  },
+  {
+    "village_id": 46,
+    "district_id": 1,
+    "name": "SARITAŞ",
+    "muhtar_name": "İsmail YILDIRIM",
+    "population_tuik_2024": 46,
+    "summer_population": 260,
+    "winter_population": 100
+  },
+  {
+    "village_id": 47,
+    "district_id": 1,
+    "name": "SİNAN",
+    "muhtar_name": "Hanifi GÜLER",
+    "population_tuik_2024": 66,
+    "summer_population": 100,
+    "winter_population": 55
+  },
+  {
+    "village_id": 48,
+    "district_id": 1,
+    "name": "SUVAT",
+    "muhtar_name": "Hasan YILDIRIM",
+    "population_tuik_2024": 28,
+    "summer_population": 121,
+    "winter_population": 33
+  },
+  {
+    "village_id": 49,
+    "district_id": 1,
+    "name": "TAHTKÖY",
+    "muhtar_name": "Cemil YILDIRIM",
+    "population_tuik_2024": 12,
+    "summer_population": 10,
+    "winter_population": 3
+  },
+  {
+    "village_id": 50,
+    "district_id": 1,
+    "name": "TÜLLÜK",
+    "muhtar_name": "İmam ÇELİK",
+    "population_tuik_2024": 66,
+    "summer_population": 82,
+    "winter_population": 40
+  },
+  {
+    "village_id": 51,
+    "district_id": 1,
+    "name": "UZUNTARLA",
+    "muhtar_name": "Özkan ATAN",
+    "population_tuik_2024": 90,
+    "summer_population": 174,
+    "winter_population": 65
+  },
+  {
+    "village_id": 52,
+    "district_id": 1,
+    "name": "YEŞİLKAYA",
+    "muhtar_name": "Kemal ORAL",
+    "population_tuik_2024": 58,
+    "summer_population": 72,
+    "winter_population": 14
+  },
+  {
+    "village_id": 53,
+    "district_id": 1,
+    "name": "YOLKONAK",
+    "muhtar_name": "Süleyman MÜC",
+    "population_tuik_2024": 94,
+    "summer_population": 0,
+    "winter_population": 0
+  }
+]
