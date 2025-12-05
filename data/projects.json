@@ -1,1 +1,38 @@
-
+[
+  {
+    "project_id": 1,
+    "name": "Sarıtaş Köyü İçme Suyu Hattı Yenileme",
+    "description": "Mevcut içme suyu hattının yenilenmesi ve ek depolama tankı yapımı.",
+    "village_id": 1,
+    "status": "Devam Ediyor",
+    "physical_progress": 45,
+    "financial_progress": 30,
+    "start_date": "2025-03-01",
+    "end_date": null,
+    "responsible_unit": "İl Özel İdaresi Altyapı Şube Müdürlüğü"
+  },
+  {
+    "project_id": 2,
+    "name": "Şuvat Köyü Grup Yolu Stabilize Çalışması",
+    "description": "Köy ve bağlı mezraları kapsayan grup yolunun stabilize kaplama çalışması.",
+    "village_id": 3,
+    "status": "Planlanan",
+    "physical_progress": 0,
+    "financial_progress": 0,
+    "start_date": null,
+    "end_date": null,
+    "responsible_unit": "Yol ve Ulaşım Hizmetleri Müdürlüğü"
+  },
+  {
+    "project_id": 3,
+    "name": "Uzuntarla Köyü Okul Onarımı",
+    "description": "Köy okulunun çatısı ve sınıf içi tadilat işleri.",
+    "village_id": 7,
+    "status": "Tamamlandı",
+    "physical_progress": 100,
+    "financial_progress": 100,
+    "start_date": "2024-09-15",
+    "end_date": "2024-11-30",
+    "responsible_unit": "İnşaat Emlak Birimi"
+  }
+]
