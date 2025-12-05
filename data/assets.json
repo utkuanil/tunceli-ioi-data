@@ -1,1 +1,38 @@
-
+[
+  {
+    "asset_id": 1,
+    "village_id": 1,
+    "settlement_id": null,
+    "type": "mezarlik",
+    "name": "Köy Mezarlığı",
+    "status": "Aktif",
+    "notes": "Köy girişinde, yeni genişletme alanı ayrıldı."
+  },
+  {
+    "asset_id": 2,
+    "village_id": 1,
+    "settlement_id": null,
+    "type": "okul",
+    "name": "İlkokul Binası",
+    "status": "Kullanımda",
+    "notes": "Tek katlı, 2 derslikli."
+  },
+  {
+    "asset_id": 3,
+    "village_id": 1,
+    "settlement_id": null,
+    "type": "cami",
+    "name": "Köy Camii",
+    "status": "Kullanımda",
+    "notes": null
+  },
+  {
+    "asset_id": 4,
+    "village_id": 2,
+    "settlement_id": null,
+    "type": "cemevi",
+    "name": "Cemevi",
+    "status": "Kullanımda",
+    "notes": "Kültürel etkinlikler için de kullanılıyor."
+  }
+]
