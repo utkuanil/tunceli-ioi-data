@@ -1,26 +1,32 @@
 [
   {
-  "problem_id": 1,
-  "village_id": 10,
-  "title": "İçme suyu hattı sık arıza yapıyor",
-  "status": "Açık",
-  "created_at": "2025-01-10",
-  "resolved_at": null
-}
-  {
-    "problem_id": 2,
-    "village_id": 1,
-    "title": "Köy okulunun çatısı akıyor",
-    "status": "Takipte",
-    "created_at": "2025-02-05",
+    "problem_id": 1,
+    "village_id": 10,
+    "title": "İçme suyu hattında sık arıza",
+    "description": "Kış aylarında borular donuyor.",
+    "category": "Su",
+    "status": "Açık",
+    "created_at": "2025-01-10",
     "resolved_at": null
   },
   {
-  "problem_id": 2,
-  "village_id": 10,
-  "title": "Okul çatısı onarımı",
-  "status": "Tamamlandı",
-  "created_at": "2024-12-01",
-  "resolved_at": "2025-01-15"
-}
+    "problem_id": 2,
+    "village_id": 10,
+    "title": "Okul çatısı hasarlı",
+    "description": "Yağışlı havalarda sınıflara su sızıyor.",
+    "category": "Eğitim",
+    "status": "Tamamlandı",
+    "created_at": "2024-12-20",
+    "resolved_at": "2025-02-05"
+  },
+  {
+    "problem_id": 3,
+    "village_id": 25,
+    "title": "Kışın yol sık sık kapanıyor",
+    "description": "Kar yağışında yol açma çalışması gecikiyor.",
+    "category": "Ulaşım",
+    "status": "Açık",
+    "created_at": "2025-01-05",
+    "resolved_at": null
+  }
 ]
