@@ -6,7 +6,19 @@
     "muhtar_name": "Kemal EROĞLU",
     "population_tuik_2024": 51,
     "summer_population": 51,
-    "winter_population": 9
+    "winter_population": 9,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 2,
@@ -15,7 +27,19 @@
     "muhtar_name": "Erdal GÜL",
     "population_tuik_2024": 49,
     "summer_population": 103,
-    "winter_population": 28
+    "winter_population": 28,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 3,
@@ -24,7 +48,19 @@
     "muhtar_name": "Ali ÇAKAK",
     "population_tuik_2024": 42,
     "summer_population": 110,
-    "winter_population": 34
+    "winter_population": 34,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 4,
@@ -33,7 +69,19 @@
     "muhtar_name": "Ali Haydar YILIDIRIM",
     "population_tuik_2024": 68,
     "summer_population": 260,
-    "winter_population": 65
+    "winter_population": 65,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 5,
@@ -42,7 +90,19 @@
     "muhtar_name": "Cemal İNANÇ",
     "population_tuik_2024": 62,
     "summer_population": 446,
-    "winter_population": 111
+    "winter_population": 111,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 6,
@@ -51,7 +111,19 @@
     "muhtar_name": "Veli YOSLUN",
     "population_tuik_2024": 30,
     "summer_population": 85,
-    "winter_population": 12
+    "winter_population": 12,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 7,
@@ -60,7 +132,19 @@
     "muhtar_name": "Zülüfü MENGEŞ",
     "population_tuik_2024": 62,
     "summer_population": 80,
-    "winter_population": 35
+    "winter_population": 35,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 8,
@@ -69,7 +153,19 @@
     "muhtar_name": "Erdem GÜNGÖREN",
     "population_tuik_2024": 60,
     "summer_population": 91,
-    "winter_population": 35
+    "winter_population": 35,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 9,
@@ -78,7 +174,19 @@
     "muhtar_name": "Aydın ÇİÇEK",
     "population_tuik_2024": 150,
     "summer_population": 243,
-    "winter_population": 134
+    "winter_population": 134,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 10,
@@ -87,7 +195,19 @@
     "muhtar_name": "Hüseyin TURĞAN",
     "population_tuik_2024": 85,
     "summer_population": 130,
-    "winter_population": 63
+    "winter_population": 63,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 11,
@@ -96,7 +216,19 @@
     "muhtar_name": "Cebrail ÖKDEMİR",
     "population_tuik_2024": 135,
     "summer_population": 220,
-    "winter_population": 85
+    "winter_population": 85,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 12,
@@ -105,7 +237,19 @@
     "muhtar_name": "Hüseyin ŞENLİK",
     "population_tuik_2024": 147,
     "summer_population": 340,
-    "winter_population": 134
+    "winter_population": 134,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 13,
@@ -114,7 +258,19 @@
     "muhtar_name": "Umut HARE",
     "population_tuik_2024": 517,
     "summer_population": 0,
-    "winter_population": 0
+    "winter_population": 0,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 14,
@@ -123,7 +279,19 @@
     "muhtar_name": "Hüseyin YASAVUR",
     "population_tuik_2024": 106,
     "summer_population": 185,
-    "winter_population": 60
+    "winter_population": 60,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 15,
@@ -132,7 +300,19 @@
     "muhtar_name": "Ali ARSLAN",
     "population_tuik_2024": 48,
     "summer_population": 30,
-    "winter_population": 6
+    "winter_population": 6,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 16,
@@ -141,7 +321,19 @@
     "muhtar_name": "Hıdır TOSUN",
     "population_tuik_2024": 48,
     "summer_population": 140,
-    "winter_population": 50
+    "winter_population": 50,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 17,
@@ -150,7 +342,19 @@
     "muhtar_name": "Şahhaydar GÜL",
     "population_tuik_2024": 118,
     "summer_population": 312,
-    "winter_population": 18
+    "winter_population": 18,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 18,
@@ -159,7 +363,19 @@
     "muhtar_name": "Vural ZERE",
     "population_tuik_2024": 141,
     "summer_population": 228,
-    "winter_population": 144
+    "winter_population": 144,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 19,
@@ -168,7 +384,19 @@
     "muhtar_name": "Hakkı GÜL",
     "population_tuik_2024": 90,
     "summer_population": 181,
-    "winter_population": 82
+    "winter_population": 82,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 20,
@@ -177,7 +405,19 @@
     "muhtar_name": "İnan GÜNTUNCER",
     "population_tuik_2024": 29,
     "summer_population": 80,
-    "winter_population": 10
+    "winter_population": 10,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 21,
@@ -186,7 +426,19 @@
     "muhtar_name": "Erdoğan AŞIK",
     "population_tuik_2024": 63,
     "summer_population": 114,
-    "winter_population": 38
+    "winter_population": 38,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 22,
@@ -195,7 +447,19 @@
     "muhtar_name": "Mehmet KARACA",
     "population_tuik_2024": 25,
     "summer_population": 60,
-    "winter_population": 0
+    "winter_population": 0,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 23,
@@ -204,7 +468,19 @@
     "muhtar_name": "Kazım GÖKMEN",
     "population_tuik_2024": 25,
     "summer_population": 0,
-    "winter_population": 0
+    "winter_population": 0,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 24,
@@ -213,7 +489,19 @@
     "muhtar_name": "Şenay TÜKEL",
     "population_tuik_2024": 34,
     "summer_population": 150,
-    "winter_population": 5
+    "winter_population": 5,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 25,
@@ -222,7 +510,19 @@
     "muhtar_name": "Serdar Şener SUROĞLU",
     "population_tuik_2024": 42,
     "summer_population": 47,
-    "winter_population": 34
+    "winter_population": 34,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 26,
@@ -231,7 +531,19 @@
     "muhtar_name": "Ali ÇELİK",
     "population_tuik_2024": 71,
     "summer_population": 45,
-    "winter_population": 9
+    "winter_population": 9,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 27,
@@ -240,7 +552,19 @@
     "muhtar_name": "Hüseyin ZEYTİN",
     "population_tuik_2024": 30,
     "summer_population": 45,
-    "winter_population": 0
+    "winter_population": 0,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 28,
@@ -249,7 +573,19 @@
     "muhtar_name": "Ali BULUT",
     "population_tuik_2024": 27,
     "summer_population": 58,
-    "winter_population": 11
+    "winter_population": 11,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 29,
@@ -258,7 +594,19 @@
     "muhtar_name": "Zeynel YEŞİL",
     "population_tuik_2024": 296,
     "summer_population": 543,
-    "winter_population": 267
+    "winter_population": 267,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 30,
@@ -267,7 +615,19 @@
     "muhtar_name": "Aydın YOLAŞAN",
     "population_tuik_2024": 51,
     "summer_population": 103,
-    "winter_population": 74
+    "winter_population": 74,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 31,
@@ -276,7 +636,19 @@
     "muhtar_name": "Hasan GÜNGÖRMÜŞ",
     "population_tuik_2024": 74,
     "summer_population": 164,
-    "winter_population": 85
+    "winter_population": 85,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 32,
@@ -285,7 +657,19 @@
     "muhtar_name": "Hüseyin POLAT",
     "population_tuik_2024": 22,
     "summer_population": 0,
-    "winter_population": 0
+    "winter_population": 0,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 33,
@@ -294,7 +678,19 @@
     "muhtar_name": "Yusuf Ali ARSLAN",
     "population_tuik_2024": 151,
     "summer_population": 283,
-    "winter_population": 151
+    "winter_population": 151,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 34,
@@ -303,7 +699,19 @@
     "muhtar_name": "Sadık AŞKIN",
     "population_tuik_2024": 63,
     "summer_population": 316,
-    "winter_population": 29
+    "winter_population": 29,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 35,
@@ -312,7 +720,19 @@
     "muhtar_name": "Çınar ARAS",
     "population_tuik_2024": 67,
     "summer_population": 129,
-    "winter_population": 11
+    "winter_population": 11,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 36,
@@ -321,7 +741,19 @@
     "muhtar_name": "İmam POLAT",
     "population_tuik_2024": 62,
     "summer_population": 100,
-    "winter_population": 100
+    "winter_population": 100,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 37,
@@ -330,7 +762,19 @@
     "muhtar_name": "Yadigar AĞLAR",
     "population_tuik_2024": 67,
     "summer_population": 320,
-    "winter_population": 40
+    "winter_population": 40,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 38,
@@ -339,7 +783,19 @@
     "muhtar_name": "Erdal KILIÇ",
     "population_tuik_2024": 202,
     "summer_population": 343,
-    "winter_population": 127
+    "winter_population": 127,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 39,
@@ -348,7 +804,19 @@
     "muhtar_name": "Uğur TAŞKIN",
     "population_tuik_2024": 28,
     "summer_population": 0,
-    "winter_population": 0
+    "winter_population": 0,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 40,
@@ -357,7 +825,19 @@
     "muhtar_name": "Ekrem TUTUMAN",
     "population_tuik_2024": 193,
     "summer_population": 390,
-    "winter_population": 175
+    "winter_population": 175,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 41,
@@ -366,7 +846,19 @@
     "muhtar_name": "Rıza DUMAN",
     "population_tuik_2024": 47,
     "summer_population": 152,
-    "winter_population": 30
+    "winter_population": 30,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 42,
@@ -375,7 +867,19 @@
     "muhtar_name": "Hıdır ARAS",
     "population_tuik_2024": 36,
     "summer_population": 137,
-    "winter_population": 29
+    "winter_population": 29,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 43,
@@ -384,7 +888,19 @@
     "muhtar_name": "Dursun OKTAY",
     "population_tuik_2024": 88,
     "summer_population": 257,
-    "winter_population": 16
+    "winter_population": 16,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 44,
@@ -393,7 +909,19 @@
     "muhtar_name": "Ekin KARATAŞ",
     "population_tuik_2024": 53,
     "summer_population": 50,
-    "winter_population": 15
+    "winter_population": 15,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 45,
@@ -402,7 +930,19 @@
     "muhtar_name": "Kamer DEMİR",
     "population_tuik_2024": 16,
     "summer_population": 30,
-    "winter_population": 0
+    "winter_population": 0,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 46,
@@ -411,7 +951,19 @@
     "muhtar_name": "İsmail YILDIRIM",
     "population_tuik_2024": 46,
     "summer_population": 260,
-    "winter_population": 100
+    "winter_population": 100,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 47,
@@ -420,7 +972,19 @@
     "muhtar_name": "Hanifi GÜLER",
     "population_tuik_2024": 66,
     "summer_population": 100,
-    "winter_population": 55
+    "winter_population": 55,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 48,
@@ -429,7 +993,19 @@
     "muhtar_name": "Hasan YILDIRIM",
     "population_tuik_2024": 28,
     "summer_population": 121,
-    "winter_population": 33
+    "winter_population": 33,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 49,
@@ -438,7 +1014,19 @@
     "muhtar_name": "Cemil YILDIRIM",
     "population_tuik_2024": 12,
     "summer_population": 10,
-    "winter_population": 3
+    "winter_population": 3,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 50,
@@ -447,7 +1035,19 @@
     "muhtar_name": "İmam ÇELİK",
     "population_tuik_2024": 66,
     "summer_population": 82,
-    "winter_population": 40
+    "winter_population": 40,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 51,
@@ -456,7 +1056,19 @@
     "muhtar_name": "Özkan ATAN",
     "population_tuik_2024": 90,
     "summer_population": 174,
-    "winter_population": 65
+    "winter_population": 65,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 52,
@@ -465,7 +1077,19 @@
     "muhtar_name": "Kemal ORAL",
     "population_tuik_2024": 58,
     "summer_population": 72,
-    "winter_population": 14
+    "winter_population": 14,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   },
   {
     "village_id": 53,
@@ -474,6 +1098,18 @@
     "muhtar_name": "Süleyman MÜC",
     "population_tuik_2024": 94,
     "summer_population": 0,
-    "winter_population": 0
+    "winter_population": 0,
+
+  "household_count": 18,
+  "health_status": "Aile hekimi haftada 1 gün köye geliyor",
+  "school_status": "İlkokul kapalı, taşımalı eğitim var",
+  "water_status": "Şebeke suyu mevcut, zaman zaman kesinti",
+  "network_status": "Mobil çekim orta düzeyde",
+  "transport_status": "Taşımalı eğitim var",
+
+  "photo_urls": [
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2023/08/18/thumbs_b_c_28ed561c0c09a6db6d416a7aad232a74.jpg",
+    "https://cdnuploads.aa.com.tr/uploads/Contents/2021/01/08/thumbs_b_c_351f13a74ce71c22ea362315f87fbcc7.jpg"
+  ]
   }
 ]
