@@ -1,1 +1,4 @@
-
+[
+  { "id": 1, "unit": "Yol Şube Müdürlüğü", "year": 2025, "planned": 10000000, "spent": 4500000 },
+  { "id": 2, "unit": "İnşaat Şube Müdürlüğü", "year": 2025, "planned": 8000000, "spent": 3000000 }
+]
