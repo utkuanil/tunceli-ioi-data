@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Greyder 1", "type": "Greyder", "plate": "23 AB 123", "status": "Çalışıyor", "village_id": 10, "map_url": "https://maps.google.com/?q=39.10,39.55" },
+  { "id": 2, "name": "Ekskavatör 2", "type": "Ekskavatör", "plate": "23 CD 456", "status": "Bakımda", "village_id": null, "map_url": null }
+]
